@@ -86,7 +86,7 @@
             this.chkTeslimDurumu.AutoSize = true;
             this.chkTeslimDurumu.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.chkTeslimDurumu.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(69)))), ((int)(((byte)(43)))), ((int)(((byte)(78)))));
-            this.chkTeslimDurumu.Location = new System.Drawing.Point(18, 284);
+            this.chkTeslimDurumu.Location = new System.Drawing.Point(18, 298);
             this.chkTeslimDurumu.Name = "chkTeslimDurumu";
             this.chkTeslimDurumu.Size = new System.Drawing.Size(128, 24);
             this.chkTeslimDurumu.TabIndex = 36;
@@ -173,7 +173,7 @@
             this.btnEkstraMalzeme.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(178)))), ((int)(((byte)(178)))), ((int)(((byte)(178)))));
             this.btnEkstraMalzeme.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.btnEkstraMalzeme.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(254)))), ((int)(((byte)(30)))), ((int)(((byte)(102)))));
-            this.btnEkstraMalzeme.Location = new System.Drawing.Point(167, 149);
+            this.btnEkstraMalzeme.Location = new System.Drawing.Point(167, 163);
             this.btnEkstraMalzeme.Name = "btnEkstraMalzeme";
             this.btnEkstraMalzeme.Size = new System.Drawing.Size(23, 23);
             this.btnEkstraMalzeme.TabIndex = 31;
@@ -214,7 +214,7 @@
             this.btnEkle.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(23)))), ((int)(((byte)(42)))), ((int)(((byte)(135)))));
             this.btnEkle.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.btnEkle.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(254)))), ((int)(((byte)(194)))), ((int)(((byte)(121)))));
-            this.btnEkle.Location = new System.Drawing.Point(167, 312);
+            this.btnEkle.Location = new System.Drawing.Point(167, 326);
             this.btnEkle.Name = "btnEkle";
             this.btnEkle.Size = new System.Drawing.Size(75, 47);
             this.btnEkle.TabIndex = 28;
@@ -227,7 +227,7 @@
             this.btnPizzaCesidi.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(178)))), ((int)(((byte)(178)))), ((int)(((byte)(178)))));
             this.btnPizzaCesidi.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.btnPizzaCesidi.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(254)))), ((int)(((byte)(30)))), ((int)(((byte)(102)))));
-            this.btnPizzaCesidi.Location = new System.Drawing.Point(126, 94);
+            this.btnPizzaCesidi.Location = new System.Drawing.Point(126, 108);
             this.btnPizzaCesidi.Name = "btnPizzaCesidi";
             this.btnPizzaCesidi.Size = new System.Drawing.Size(23, 23);
             this.btnPizzaCesidi.TabIndex = 27;
@@ -241,7 +241,7 @@
             this.cboPizzaCesidi.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cboPizzaCesidi.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(38)))), ((int)(((byte)(38)))), ((int)(((byte)(46)))));
             this.cboPizzaCesidi.FormattingEnabled = true;
-            this.cboPizzaCesidi.Location = new System.Drawing.Point(17, 123);
+            this.cboPizzaCesidi.Location = new System.Drawing.Point(17, 137);
             this.cboPizzaCesidi.Name = "cboPizzaCesidi";
             this.cboPizzaCesidi.Size = new System.Drawing.Size(225, 26);
             this.cboPizzaCesidi.TabIndex = 26;
@@ -250,7 +250,7 @@
             // 
             this.txtAdres.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(241)))), ((int)(((byte)(252)))));
             this.txtAdres.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(38)))), ((int)(((byte)(38)))), ((int)(((byte)(46)))));
-            this.txtAdres.Location = new System.Drawing.Point(15, 77);
+            this.txtAdres.Location = new System.Drawing.Point(15, 82);
             this.txtAdres.Multiline = true;
             this.txtAdres.Name = "txtAdres";
             this.txtAdres.Size = new System.Drawing.Size(225, 131);
@@ -270,7 +270,7 @@
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label4.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(69)))), ((int)(((byte)(43)))), ((int)(((byte)(78)))));
-            this.label4.Location = new System.Drawing.Point(13, 57);
+            this.label4.Location = new System.Drawing.Point(13, 63);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(132, 20);
             this.label4.TabIndex = 23;
@@ -281,7 +281,7 @@
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(69)))), ((int)(((byte)(43)))), ((int)(((byte)(78)))));
-            this.label3.Location = new System.Drawing.Point(14, 152);
+            this.label3.Location = new System.Drawing.Point(14, 166);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(151, 20);
             this.label3.TabIndex = 22;
@@ -293,7 +293,7 @@
             this.label2.BackColor = System.Drawing.Color.Transparent;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(69)))), ((int)(((byte)(43)))), ((int)(((byte)(78)))));
-            this.label2.Location = new System.Drawing.Point(14, 97);
+            this.label2.Location = new System.Drawing.Point(14, 111);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(106, 20);
             this.label2.TabIndex = 21;
@@ -306,7 +306,7 @@
             this.clbMalzeme.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.clbMalzeme.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(38)))), ((int)(((byte)(38)))), ((int)(((byte)(46)))));
             this.clbMalzeme.FormattingEnabled = true;
-            this.clbMalzeme.Location = new System.Drawing.Point(18, 177);
+            this.clbMalzeme.Location = new System.Drawing.Point(18, 191);
             this.clbMalzeme.Name = "clbMalzeme";
             this.clbMalzeme.Size = new System.Drawing.Size(224, 99);
             this.clbMalzeme.TabIndex = 38;
@@ -317,7 +317,7 @@
             this.label5.BackColor = System.Drawing.Color.Transparent;
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label5.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(69)))), ((int)(((byte)(43)))), ((int)(((byte)(78)))));
-            this.label5.Location = new System.Drawing.Point(14, 41);
+            this.label5.Location = new System.Drawing.Point(14, 55);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(158, 20);
             this.label5.TabIndex = 39;
@@ -329,7 +329,7 @@
             this.cboMusteri.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cboMusteri.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(38)))), ((int)(((byte)(38)))), ((int)(((byte)(46)))));
             this.cboMusteri.FormattingEnabled = true;
-            this.cboMusteri.Location = new System.Drawing.Point(17, 66);
+            this.cboMusteri.Location = new System.Drawing.Point(17, 80);
             this.cboMusteri.Name = "cboMusteri";
             this.cboMusteri.Size = new System.Drawing.Size(225, 26);
             this.cboMusteri.TabIndex = 40;
@@ -340,7 +340,7 @@
             this.btnMusteriEkle.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(23)))), ((int)(((byte)(42)))), ((int)(((byte)(135)))));
             this.btnMusteriEkle.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.btnMusteriEkle.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(254)))), ((int)(((byte)(194)))), ((int)(((byte)(121)))));
-            this.btnMusteriEkle.Location = new System.Drawing.Point(14, 209);
+            this.btnMusteriEkle.Location = new System.Drawing.Point(14, 214);
             this.btnMusteriEkle.Name = "btnMusteriEkle";
             this.btnMusteriEkle.Size = new System.Drawing.Size(114, 37);
             this.btnMusteriEkle.TabIndex = 41;
@@ -365,7 +365,7 @@
             this.btnIptal.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(23)))), ((int)(((byte)(42)))), ((int)(((byte)(135)))));
             this.btnIptal.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.btnIptal.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(254)))), ((int)(((byte)(194)))), ((int)(((byte)(121)))));
-            this.btnIptal.Location = new System.Drawing.Point(83, 312);
+            this.btnIptal.Location = new System.Drawing.Point(83, 326);
             this.btnIptal.Name = "btnIptal";
             this.btnIptal.Size = new System.Drawing.Size(78, 47);
             this.btnIptal.TabIndex = 43;
@@ -379,7 +379,7 @@
             this.btnMusteriDuzenle.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(23)))), ((int)(((byte)(42)))), ((int)(((byte)(135)))));
             this.btnMusteriDuzenle.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.btnMusteriDuzenle.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(254)))), ((int)(((byte)(194)))), ((int)(((byte)(121)))));
-            this.btnMusteriDuzenle.Location = new System.Drawing.Point(174, 9);
+            this.btnMusteriDuzenle.Location = new System.Drawing.Point(174, 23);
             this.btnMusteriDuzenle.Name = "btnMusteriDuzenle";
             this.btnMusteriDuzenle.Size = new System.Drawing.Size(86, 56);
             this.btnMusteriDuzenle.TabIndex = 44;
@@ -397,9 +397,9 @@
             this.groupBox1.Controls.Add(this.label6);
             this.groupBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.groupBox1.ForeColor = System.Drawing.Color.BlueViolet;
-            this.groupBox1.Location = new System.Drawing.Point(3, 9);
+            this.groupBox1.Location = new System.Drawing.Point(3, 0);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(265, 251);
+            this.groupBox1.Size = new System.Drawing.Size(265, 255);
             this.groupBox1.TabIndex = 46;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Müşteri Ekle";
@@ -409,7 +409,7 @@
             this.btnMusteriSil.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(23)))), ((int)(((byte)(42)))), ((int)(((byte)(135)))));
             this.btnMusteriSil.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.btnMusteriSil.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(254)))), ((int)(((byte)(194)))), ((int)(((byte)(121)))));
-            this.btnMusteriSil.Location = new System.Drawing.Point(134, 209);
+            this.btnMusteriSil.Location = new System.Drawing.Point(134, 214);
             this.btnMusteriSil.Name = "btnMusteriSil";
             this.btnMusteriSil.Size = new System.Drawing.Size(108, 36);
             this.btnMusteriSil.TabIndex = 43;
@@ -435,7 +435,7 @@
             this.groupBox2.ForeColor = System.Drawing.Color.BlueViolet;
             this.groupBox2.Location = new System.Drawing.Point(3, 261);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(265, 400);
+            this.groupBox2.Size = new System.Drawing.Size(265, 388);
             this.groupBox2.TabIndex = 47;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Pizza Sipariş Ekle";
